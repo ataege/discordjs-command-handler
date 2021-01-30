@@ -1,0 +1,5 @@
+{
+  "key": "token here",
+  "prefix": "!",
+  "owner": ["owner1 id", "owner2 id", "..."]
+}
